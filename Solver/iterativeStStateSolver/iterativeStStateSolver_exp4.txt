@@ -1,0 +1,56 @@
+Mobius sor Version 2.5, 
+Copyright (c) William H. Sanders and Univ. of Illinois 1994-2010
+
+******************************************************************************
+                  Mobius ITERATIVE SOR STEADY STATE SOLVER 
+
+                  ITERATIVE SOR STEADY STATE SOLVER RESULTS
+******************************************************************************
+
+Started: Mon Jun 01 13:56:47 2020
+
+Project name: SBST
+Study name: test_execution_rate_G_SetStudy
+State space name: stSpcGen
+Experiment name: exp4
+
+Global variable settings for this experiment:
+	pperm_fault_G = 0.1
+	safe_restore_rate_G = 10.0
+	test_execution_rate_G = 4000.0
+
+Verbosity: 0
+Accuracy: 1.000000e-009
+Weight: 1.000000
+Max iterations: 300000
+Matrix diagonalization off.
+
+Computation Time (seconds): 0.004000
+User Time (seconds): 0.004000
+System Time (seconds): 0.000000
+Number of states in process: 25
+Number of non-zero elements: 92
+Solution converged in 529 iterations.
+Maximum difference: 9.848413e-010
+
+Computing the performance variables
+******************************************************************************
+Performance variable :  Cpu_Failure
+Mean                 :  6.673584e-009
+Variance             :  6.673584e-009
+Plot files    (pdf)  :  exp4.sor.Cpu_Failure.pdf.splot
+              (cdf)  :  exp4.sor.Cpu_Failure.cdf.splot
+******************************************************************************
+Performance variable :  cpu_catastrophic_failure
+Mean                 :  4.357682e-009
+Variance             :  4.357682e-009
+Plot files    (pdf)  :  exp4.sor.cpu_catastrophic_failure.pdf.splot
+              (cdf)  :  exp4.sor.cpu_catastrophic_failure.cdf.splot
+******************************************************************************
+Performance variable :  cpu_safe_failure
+Mean                 :  2.315902e-009
+Variance             :  2.315902e-009
+Plot files    (pdf)  :  exp4.sor.cpu_safe_failure.pdf.splot
+              (cdf)  :  exp4.sor.cpu_safe_failure.cdf.splot
+Finished: Mon Jun 01 13:56:47 2020
+

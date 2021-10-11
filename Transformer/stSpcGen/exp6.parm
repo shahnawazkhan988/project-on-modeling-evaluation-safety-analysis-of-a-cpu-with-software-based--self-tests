@@ -1,0 +1,4 @@
+Global variable settings for this experiment:
+	pperm_fault_G = 0.1
+	safe_restore_rate_G = 10.0
+	test_execution_rate_G = 6000.0

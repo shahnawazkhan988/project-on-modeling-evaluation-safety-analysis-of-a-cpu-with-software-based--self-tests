@@ -1,0 +1,188 @@
+
+**********************************************************
+
+State Generation initiated on Experiment_1 of stSpcGen started at Mon Jun 01 13:54:02 CEST 2020 ...
+path=[c:/MobiusProject/SBST/Transformer/stSpcGen/]
+License File=C:\Users\shan\AppData\Local\Temp\mobius7014474726659001969license
+License Verified.
+The Global Variable values for experiment Experiment 1 are:
+pperm_fault_G	double	0.1
+safe_restore_rate_G	double	10
+test_execution_rate_G	double	1000
+SSG: SetTraceLevel: 0
+
+Generated: 25 states
+Computation Time (user + system): 3.100000e-002 seconds
+State Generation of Experiment_1 on model stSpcGen finished at Mon Jun 01 13:54:03 CEST 2020.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp10 of stSpcGen started at Mon Jun 01 13:54:03 CEST 2020 ...
+path=[c:/MobiusProject/SBST/Transformer/stSpcGen/]
+License File=C:\Users\shan\AppData\Local\Temp\mobius5654708577040431041license
+License Verified.
+The Global Variable values for experiment Experiment 2 are:
+pperm_fault_G	double	0.1
+safe_restore_rate_G	double	10
+test_execution_rate_G	double	10000
+SSG: SetTraceLevel: 0
+
+Generated: 25 states
+Computation Time (user + system): 5.000000e-002 seconds
+State Generation of exp10 on model stSpcGen finished at Mon Jun 01 13:54:04 CEST 2020.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp2 of stSpcGen started at Mon Jun 01 13:54:04 CEST 2020 ...
+path=[c:/MobiusProject/SBST/Transformer/stSpcGen/]
+License File=C:\Users\shan\AppData\Local\Temp\mobius7843073639125314675license
+License Verified.
+The Global Variable values for experiment Experiment 3 are:
+pperm_fault_G	double	0.1
+safe_restore_rate_G	double	10
+test_execution_rate_G	double	2000
+SSG: SetTraceLevel: 0
+
+Generated: 25 states
+Computation Time (user + system): 6.000000e-002 seconds
+State Generation of exp2 on model stSpcGen finished at Mon Jun 01 13:54:04 CEST 2020.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp3 of stSpcGen started at Mon Jun 01 13:54:05 CEST 2020 ...
+path=[c:/MobiusProject/SBST/Transformer/stSpcGen/]
+License File=C:\Users\shan\AppData\Local\Temp\mobius4351762462631513585license
+License Verified.
+The Global Variable values for experiment Experiment 4 are:
+pperm_fault_G	double	0.1
+safe_restore_rate_G	double	10
+test_execution_rate_G	double	3000
+SSG: SetTraceLevel: 0
+
+Generated: 25 states
+Computation Time (user + system): 3.000000e-002 seconds
+State Generation of exp3 on model stSpcGen finished at Mon Jun 01 13:54:05 CEST 2020.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp4 of stSpcGen started at Mon Jun 01 13:54:05 CEST 2020 ...
+path=[c:/MobiusProject/SBST/Transformer/stSpcGen/]
+License File=C:\Users\shan\AppData\Local\Temp\mobius5952628240081493581license
+License Verified.
+The Global Variable values for experiment Experiment 5 are:
+pperm_fault_G	double	0.1
+safe_restore_rate_G	double	10
+test_execution_rate_G	double	4000
+SSG: SetTraceLevel: 0
+
+Generated: 25 states
+Computation Time (user + system): 3.100000e-002 seconds
+State Generation of exp4 on model stSpcGen finished at Mon Jun 01 13:54:06 CEST 2020.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp5 of stSpcGen started at Mon Jun 01 13:54:06 CEST 2020 ...
+path=[c:/MobiusProject/SBST/Transformer/stSpcGen/]
+License File=C:\Users\shan\AppData\Local\Temp\mobius4155156860527401664license
+License Verified.
+The Global Variable values for experiment Experiment 6 are:
+pperm_fault_G	double	0.1
+safe_restore_rate_G	double	10
+test_execution_rate_G	double	5000
+SSG: SetTraceLevel: 0
+
+Generated: 25 states
+Computation Time (user + system): 7.200000e-002 seconds
+State Generation of exp5 on model stSpcGen finished at Mon Jun 01 13:54:07 CEST 2020.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp6 of stSpcGen started at Mon Jun 01 13:54:07 CEST 2020 ...
+path=[c:/MobiusProject/SBST/Transformer/stSpcGen/]
+License File=C:\Users\shan\AppData\Local\Temp\mobius4803217872674431635license
+License Verified.
+The Global Variable values for experiment Experiment 7 are:
+pperm_fault_G	double	0.1
+safe_restore_rate_G	double	10
+test_execution_rate_G	double	6000
+SSG: SetTraceLevel: 0
+
+Generated: 25 states
+Computation Time (user + system): 6.500000e-002 seconds
+State Generation of exp6 on model stSpcGen finished at Mon Jun 01 13:54:08 CEST 2020.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp7 of stSpcGen started at Mon Jun 01 13:54:08 CEST 2020 ...
+path=[c:/MobiusProject/SBST/Transformer/stSpcGen/]
+License File=C:\Users\shan\AppData\Local\Temp\mobius8687039055500617208license
+License Verified.
+The Global Variable values for experiment Experiment 8 are:
+pperm_fault_G	double	0.1
+safe_restore_rate_G	double	10
+test_execution_rate_G	double	7000
+SSG: SetTraceLevel: 0
+
+Generated: 25 states
+Computation Time (user + system): 6.800000e-002 seconds
+State Generation of exp7 on model stSpcGen finished at Mon Jun 01 13:54:09 CEST 2020.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp8 of stSpcGen started at Mon Jun 01 13:54:09 CEST 2020 ...
+path=[c:/MobiusProject/SBST/Transformer/stSpcGen/]
+License File=C:\Users\shan\AppData\Local\Temp\mobius4651184046903082452license
+License Verified.
+The Global Variable values for experiment Experiment 9 are:
+pperm_fault_G	double	0.1
+safe_restore_rate_G	double	10
+test_execution_rate_G	double	8000
+SSG: SetTraceLevel: 0
+
+Generated: 25 states
+Computation Time (user + system): 3.900000e-002 seconds
+State Generation of exp8 on model stSpcGen finished at Mon Jun 01 13:54:10 CEST 2020.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp9 of stSpcGen started at Mon Jun 01 13:54:10 CEST 2020 ...
+path=[c:/MobiusProject/SBST/Transformer/stSpcGen/]
+License File=C:\Users\shan\AppData\Local\Temp\mobius2359102107696460542license
+License Verified.
+The Global Variable values for experiment Experiment 10 are:
+pperm_fault_G	double	0.1
+safe_restore_rate_G	double	10
+test_execution_rate_G	double	9000
+SSG: SetTraceLevel: 0
+
+Generated: 25 states
+Computation Time (user + system): 4.400000e-002 seconds
+State Generation of exp9 on model stSpcGen finished at Mon Jun 01 13:54:10 CEST 2020.
+

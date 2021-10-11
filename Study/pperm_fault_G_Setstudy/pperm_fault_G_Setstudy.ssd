@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<class id="Mobius.Studies.SetStudy.SetStudyInterface">
+	<int id="ClassVersion">1</int>
+	<class id="Mobius.Studies.Common.BaseStudyInterface">
+		<int id="ClassVersion">1</int>
+		<class id="Mobius.BaseClasses.BaseInterfaceClass">
+			<int id="ClassVersion">3</int>
+			<string id="ModelName">pperm_fault_G_Setstudy</string>
+			<class id="Mobius.Studies.SetStudy.SetStudyInfoClass">
+				<int id="ClassVersion">1</int>
+				<class id="Mobius.Studies.BaseStudyInfoClass">
+					<int id="ClassVersion">1</int>
+					<class id="Mobius.BaseClasses.BaseInfoClass">
+						<int id="ClassVersion">2</int>
+					</class>
+				</class>
+			</class>
+			<class id="Mobius.Studies.SetStudy.SetStudyEditor">
+				<int id="ClassVersion">2</int>
+				<class id="Mobius.Studies.Common.BaseStudyEditor">
+					<int id="ClassVersion">4</int>
+					<class id="Mobius.BaseClasses.BaseEditorClass">
+						<int id="ClassVersion">3</int>
+						<boolean id="HasPanel">false</boolean>
+						<vector id="LocalGlobalNamesList">
+						</vector>
+						<vector id="LocalGlobalTypesList">
+						</vector>
+						<boolean id="DisplayToolTips">true</boolean>
+					</class>
+					<string id="FullPath">c:\\MobiusProject\\SBST\\Study\\pperm_fault_G_Setstudy\\</string>
+					<string id="PVModelName">RWD</string>
+					<vector id="ActiveExpVector">
+						<boolean id="0">true</boolean>
+						<boolean id="1">true</boolean>
+						<boolean id="2">true</boolean>
+						<boolean id="3">true</boolean>
+						<boolean id="4">true</boolean>
+						<boolean id="5">true</boolean>
+						<boolean id="6">true</boolean>
+						<boolean id="7">true</boolean>
+						<boolean id="8">true</boolean>
+						<boolean id="9">true</boolean>
+					</vector>
+					<vector id="GVNameVector">
+						<string id="0">pperm_fault_G</string>
+						<string id="1">safe_restore_rate_G</string>
+						<string id="2">test_execution_rate_G</string>
+					</vector>
+					<vector id="GVTypeStringVector">
+						<string id="0">double</string>
+						<string id="1">double</string>
+						<string id="2">double</string>
+					</vector>
+				</class>
+				<int id="VectorLength">10</int>
+				<int id="NumOfGVs">3</int>
+				<string id="Name">Experiment 1</string>
+				<vector id="GVValueVector">
+					<string id="0">0.1</string>
+					<string id="1">10.0</string>
+					<string id="2">1000.0</string>
+				</vector>
+				<string id="Name">exp10</string>
+				<vector id="GVValueVector">
+					<string id="0">1.0</string>
+					<string id="1">10.0</string>
+					<string id="2">1000.0</string>
+				</vector>
+				<string id="Name">exp2</string>
+				<vector id="GVValueVector">
+					<string id="0">0.2</string>
+					<string id="1">10.0</string>
+					<string id="2">1000.0</string>
+				</vector>
+				<string id="Name">exp3</string>
+				<vector id="GVValueVector">
+					<string id="0">0.3</string>
+					<string id="1">10.0</string>
+					<string id="2">1000.0</string>
+				</vector>
+				<string id="Name">exp4</string>
+				<vector id="GVValueVector">
+					<string id="0">0.4</string>
+					<string id="1">10.0</string>
+					<string id="2">1000.0</string>
+				</vector>
+				<string id="Name">exp5</string>
+				<vector id="GVValueVector">
+					<string id="0">0.5</string>
+					<string id="1">10.0</string>
+					<string id="2">1000.0</string>
+				</vector>
+				<string id="Name">exp6</string>
+				<vector id="GVValueVector">
+					<string id="0">0.6</string>
+					<string id="1">10.0</string>
+					<string id="2">1000.0</string>
+				</vector>
+				<string id="Name">exp7</string>
+				<vector id="GVValueVector">
+					<string id="0">0.7</string>
+					<string id="1">10.0</string>
+					<string id="2">1000.0</string>
+				</vector>
+				<string id="Name">exp8</string>
+				<vector id="GVValueVector">
+					<string id="0">0.8</string>
+					<string id="1">10.0</string>
+					<string id="2">1000.0</string>
+				</vector>
+				<string id="Name">exp9</string>
+				<vector id="GVValueVector">
+					<string id="0">0.9</string>
+					<string id="1">10.0</string>
+					<string id="2">1000.0</string>
+				</vector>
+			</class>
+			<boolean id="Valid">true</boolean>
+		</class>
+	</class>
+</class>

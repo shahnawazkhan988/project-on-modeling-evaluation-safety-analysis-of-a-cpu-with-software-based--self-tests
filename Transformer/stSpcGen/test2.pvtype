@@ -1,0 +1,12 @@
+Version:1
+NumPV:2
+Name:cpu_catastrophic_failure
+Type:3
+NumTimes:1
+Start:0
+Stop:1
+Name:cpu_safe_failure
+Type:3
+NumTimes:1
+Start:0
+Stop:1

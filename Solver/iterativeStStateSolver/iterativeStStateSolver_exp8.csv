@@ -1,0 +1,18 @@
+## Exp Num, PV Num, PV Name, Start Time, Stop Time, Type, Mean, Variance,NumDistPts
+0,0,Cpu_Failure,-1.000000,-1.000000,Results,0.000000,0.000000,2
+## Dist,x, P(X=x), P(X<=x)
+Dist,0.000000,1.000000,1.000000
+Dist,1.000000,0.000000,1.000000
+
+## Exp Num, PV Num, PV Name, Start Time, Stop Time, Type, Mean, Variance,NumDistPts
+0,1,cpu_catastrophic_failure,-1.000000,-1.000000,Results,0.000000,0.000000,2
+## Dist,x, P(X=x), P(X<=x)
+Dist,0.000000,1.000000,1.000000
+Dist,1.000000,0.000000,1.000000
+
+## Exp Num, PV Num, PV Name, Start Time, Stop Time, Type, Mean, Variance,NumDistPts
+0,2,cpu_safe_failure,-1.000000,-1.000000,Results,0.000000,0.000000,2
+## Dist,x, P(X=x), P(X<=x)
+Dist,0.000000,1.000000,1.000000
+Dist,1.000000,0.000000,1.000000
+

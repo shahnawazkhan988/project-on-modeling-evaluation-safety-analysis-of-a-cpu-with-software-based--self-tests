@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?>
+<models:Project xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:models="http://www.mobius.illinois.edu/projects" name="SBST" author="shan" creationDate="2020-03-27T14:32:19.807+0100" lastSavedVersion="2.5.10.201907161116">
+  <atomic key="san">
+    <value name="san" type="SAN Model"/>
+  </atomic>
+  <reward key="RWD">
+    <value name="RWD" category="Reward" type="Performance Variables Model"/>
+  </reward>
+  <study key="test_execution_rate_G_SetStudy">
+    <value name="test_execution_rate_G_SetStudy" category="Study" type="Set Study"/>
+  </study>
+  <study key="pperm_fault_G_Setstudy">
+    <value name="pperm_fault_G_Setstudy" category="Study" type="Set Study"/>
+  </study>
+  <study key="safe_restore_rate_G_SetStudy">
+    <value name="safe_restore_rate_G_SetStudy" category="Study" type="Set Study"/>
+  </study>
+  <transformer key="stSpcGen">
+    <value name="stSpcGen" category="Transformer" type="State Space Generator"/>
+  </transformer>
+  <solver key="iterativeStStateSolver">
+    <value name="iterativeStStateSolver" category="Solver" type="Iterative Steady State Solver"/>
+  </solver>
+</models:Project>
